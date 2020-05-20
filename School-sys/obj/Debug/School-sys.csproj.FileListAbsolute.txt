@@ -1,0 +1,103 @@
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\School-sys.exe.config
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\School-sys.exe
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\School-sys.pdb
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.csprojAssemblyReference.cache
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.Properties.Resources.resources
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.csproj.GenerateResource.cache
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.exe
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.pdb
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\MySql.Data.dll
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\Google.Protobuf.dll
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\BouncyCastle.Crypto.dll
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\Ubiety.Dns.Core.dll
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\Renci.SshNet.dll
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\MySql.Data.xml
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.csproj.CopyComplete
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_login.resources
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.School_sys_elever.resources
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_start.resources
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\School-sys.exe.config
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\School-sys.exe
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\School-sys.pdb
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\MySql.Data.dll
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\Google.Protobuf.dll
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\BouncyCastle.Crypto.dll
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\Ubiety.Dns.Core.dll
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\Renci.SshNet.dll
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\bin\Debug\MySql.Data.xml
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.csprojAssemblyReference.cache
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_kurser.resources
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_login.resources
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.School_sys_elever.resources
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.Properties.Resources.resources
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_start.resources
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.csproj.GenerateResource.cache
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.csproj.CopyComplete
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.exe
+J:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.pdb
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_admin.resources
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_kurser.resources
+D:\HP Zbook - Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_schema.resources
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\bin\Debug\School-sys.exe.config
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\bin\Debug\School-sys.exe
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\bin\Debug\School-sys.pdb
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\bin\Debug\MySql.Data.dll
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\bin\Debug\Google.Protobuf.dll
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\bin\Debug\Renci.SshNet.dll
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\bin\Debug\MySql.Data.xml
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School-sys.csprojAssemblyReference.cache
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_admin.resources
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_kurser.resources
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_login.resources
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School_sys.School_sys_elever.resources
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School_sys.Properties.Resources.resources
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_schema.resources
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_start.resources
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School-sys.csproj.GenerateResource.cache
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School-sys.csproj.CopyComplete
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School-sys.exe
+C:\Users\liam.olssonlilliero\Desktop\School-sys\School-sys\obj\Debug\School-sys.pdb
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School-sys.csprojAssemblyReference.cache
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_admin.resources
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_kurser.resources
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_login.resources
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School_sys.School_sys_elever.resources
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School_sys.Properties.Resources.resources
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_schema.resources
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School_sys.schoolsys_start.resources
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School-sys.csproj.GenerateResource.cache
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School-sys.exe
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School-sys.pdb
+C:\Users\edgeo\Desktop\School-sys\School-sys\bin\Debug\School-sys.exe.config
+C:\Users\edgeo\Desktop\School-sys\School-sys\bin\Debug\School-sys.exe
+C:\Users\edgeo\Desktop\School-sys\School-sys\bin\Debug\School-sys.pdb
+C:\Users\edgeo\Desktop\School-sys\School-sys\bin\Debug\MySql.Data.dll
+C:\Users\edgeo\Desktop\School-sys\School-sys\bin\Debug\Google.Protobuf.dll
+C:\Users\edgeo\Desktop\School-sys\School-sys\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\edgeo\Desktop\School-sys\School-sys\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\edgeo\Desktop\School-sys\School-sys\bin\Debug\Renci.SshNet.dll
+C:\Users\edgeo\Desktop\School-sys\School-sys\bin\Debug\MySql.Data.xml
+C:\Users\edgeo\Desktop\School-sys\School-sys\obj\Debug\School-sys.csproj.CopyComplete
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\bin\Debug\School-sys.exe.config
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\bin\Debug\School-sys.exe
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\bin\Debug\School-sys.pdb
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\bin\Debug\MySql.Data.dll
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\bin\Debug\Google.Protobuf.dll
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\bin\Debug\Renci.SshNet.dll
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\bin\Debug\MySql.Data.xml
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.csprojAssemblyReference.cache
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_admin.resources
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_kurser.resources
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_login.resources
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.School_sys_elever.resources
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.Properties.Resources.resources
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_schema.resources
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School_sys.schoolsys_start.resources
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.csproj.GenerateResource.cache
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.csproj.CopyComplete
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.exe
+C:\Users\edgeo\Desktop\Programmering\School-sys\School-sys\obj\Debug\School-sys.pdb
